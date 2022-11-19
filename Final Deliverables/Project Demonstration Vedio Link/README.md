@@ -1,5 +1,12 @@
 
 CAR RESALE VALUE PREDICTION
 
+TEAM ID: PNT2022TMID26980
+
+TEAM MEMBERS:
+  NAVIN KUMAR.S
+  RAVI RAGHAV.R
+  MANO.K
+  VISHNU.M
 
 DEMO VIDEO LINK [CLICK HERE](https://drive.google.com/file/d/1xbeK6SktnBZ7R-VisCdrFUrfBKahfnPN/view?usp=share_link)
