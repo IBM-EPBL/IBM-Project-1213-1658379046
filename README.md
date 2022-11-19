@@ -1,0 +1,31 @@
+GIT REPO LINK: https://github.com/IBM-EPBL/IBM-Project-1213-1658379046
+GIT REPO ID:   IBM-EPBL/IBM-Project-1213-1658379046
+
+Car Resale value Prediction
+
+          DOMAIN: APPLIED DATA SCIENCE
+          TEAM ID:PNT2022TMID26980
+          
+          PROJECT DESCRIPTION:
+          
+          
+          Machine learning has become a tool used in almost every task that requires estimation.
+          We need to build a model to estimate the price of used cars. The model should take car
+          related parameters and gives output as a selling price. 
+          The selling price of a used car depends on certain features as Fuel type, Manufacturing year,Miles driven,Number of owners .
+          This is a supervised learning problem and can be solved using regression techniques.
+          We need to predict the selling price of a car based on the given car's features.
+          Regression problems require labelled data where our target or dependent variable 
+          is the selling price of a car.All other features are independent variables. 
+          Some regression algorithms are linear regression,Decision tree Regressor, Random Forest Regressor etc.,
+          
+          TEAM MEMBERS:
+          NAVINKUMAR.S
+          RAVI RAGHAV.R
+          MANO.K
+          VISHNU.M
+ 
+Demo Video Link : [Click here](https://drive.google.com/file/d/1xbeK6SktnBZ7R-VisCdrFUrfBKahfnPN/view?usp=share_link)
+
+
+Web app Link:[Click here](https://carreeeeee.herokuapp.com/)
